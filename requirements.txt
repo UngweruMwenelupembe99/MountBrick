@@ -2,4 +2,4 @@ streamlit
 pulp
 pandas
 numpy
-matplotlib.pyplot
+matplotlib
